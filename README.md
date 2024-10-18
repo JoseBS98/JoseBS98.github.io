@@ -2,14 +2,14 @@ title: Jose Barron
 desccription: Mechanical Engineer pursuing a Masters in Engineering Management and Leadership with specialization in Mechanical Engineering
 theme: jekyll-theme-minimal
 
-#Education
+###Education
 
 RICE UNIVERSITY Houston, TX
 MSc in Engineering Management and Leadership
 • Specialization in Mechanical Engineering
 • Expected graduation date May 2026
 
-#Professional Experience
+###Professional Experience
 
 GE AEROSPACE Queretaro, MX
 Product Definition Engineer II
@@ -26,11 +26,11 @@ cool motor-generator; tracked deliverables and managed product definition resour
 #• Lead the redesign of LM2500 engine’s rigid harness for the power turbine speed sensor with a flexible
 harness; planned the design phases and tracked deliverables
 
-#Volunteering Experience
+###Volunteering Experience
 PREPANET Online
 Tutor
 • Taught two high school courses computing and history
 
-#Awards
+###Awards
 FULBRIGHT-GARCIA ROBLES RECIPIENT
 • Awarded a Fulbright-García Robles grant to pursue a Master´s degree for 2 years
